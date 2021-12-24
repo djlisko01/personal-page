@@ -1,3 +1,12 @@
+#Config files
+.eslintrc.js
+.prettierrc
+
+#Desktop Service Store
+.DS_Store
+
+#Dependencies
+node_modules
 # Logs
 logs
 *.log
